@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lab41lagrangepolinomgui.HelloController">
+   <children>
+      <Button fx:id="butt1" layoutX="14.0" layoutY="329.0" mnemonicParsing="false" onAction="#addPoly" prefHeight="26.0" prefWidth="152.0" text="Базисные полиномы" />
+      <Button fx:id="butt2" layoutX="14.0" layoutY="363.0" mnemonicParsing="false" onAction="#drawGraph" prefHeight="26.0" prefWidth="152.0" text="Многочлен Лагранжа" wrapText="true" />
+      <Button fx:id="butt3" layoutX="14.0" layoutY="399.0" mnemonicParsing="false" onAction="#clearData" prefHeight="26.0" prefWidth="152.0" text="Очистить данные" wrapText="true" />
+      <TableView fx:id="table" layoutX="14.0" layoutY="14.0" prefHeight="270.0" prefWidth="152.0">
+        <columns>
+          <TableColumn fx:id="table_column_x" prefWidth="75.0" text="x" />
+          <TableColumn fx:id="table_column_y" prefWidth="75.0" text="y" />
+        </columns>
+      </TableView>
+      <TextField alignment="CENTER" layoutX="14.0" layoutY="292.0" prefHeight="26.0" prefWidth="46.0" promptText="x" fx:id="xTextField" />
+      <Button fx:id="addButton" layoutX="66.0" layoutY="292.0" mnemonicParsing="false" onAction="#addButtonClick" prefHeight="26.0" prefWidth="46.0" text="Add" />
+      <LineChart fx:id="lineChart" layoutX="191.0" layoutY="24.0" prefHeight="401.0" prefWidth="494.0" stylesheets="@style.css">
+        <xAxis>
+          <NumberAxis side="BOTTOM" fx:id="xAxis" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis fx:id="yAxis" side="LEFT" />
+        </yAxis>
+      </LineChart>
+   </children>
+</AnchorPane>

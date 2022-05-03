@@ -1,0 +1,14 @@
+/* Убирает линии на первой серии данных */
+.default-color0.chart-series-line {
+    -fx-stroke: transparent;
+}
+
+/* Убирает точки во второй серии данных */
+.default-color1.chart-line-symbol {
+    -fx-background-color: transparent;
+}
+
+.default-color2.chart-series-line {
+    -fx-stroke: transparent;
+}
+
