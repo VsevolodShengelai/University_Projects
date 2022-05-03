@@ -186,7 +186,7 @@ public class HelloController implements Initializable {
             Lagrange lagrange = new Lagrange();
 
             for(int i=0; i< N; i++){
-                datas.add(new XYChart.Data(X[0]+h*i,lagrange.GetValue(X,Y,X[0]+h*i)));
+                datas.add(new XYChart.Data(X[0]+h*i,lagrange.GetValue(X_old,Y_old,X[0]+h*i)));
             }
             series.setData(datas);
             //Из-за таблицы стилей эта надпись не видна
