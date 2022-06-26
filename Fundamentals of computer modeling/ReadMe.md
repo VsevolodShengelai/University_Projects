@@ -4,8 +4,8 @@
 ### Описание
 Программы строят траекторию движения тела, брошенного под углом к горизонту в прямоугольной системе координат, используя приемы численного интегрирования уравнений Ньютона.
 В программах реализованы два алгоритма, учитывающих сопротивление среды:
-- [Алгоритм для модели с установившейся скоростью] (https://github.com/VsevolodShengelai/University_Projects/blob/main/Fundamentals%20of%20computer%20modeling/Shooting%20at%20an%20angle%20to%20the%20horizon/Release_v2.8%20-%20new%20algorithm_2.py)
-- [Алгоритм для модели, в которой величина силы сопротивления пропорциональна скорости тела] (https://github.com/VsevolodShengelai/University_Projects/blob/main/Fundamentals%20of%20computer%20modeling/Shooting%20at%20an%20angle%20to%20the%20horizon/Release_v2.8%20-%20new%20algorithm.py) 
+- [Алгоритм для модели с установившейся скоростью](https://github.com/VsevolodShengelai/University_Projects/blob/main/Fundamentals%20of%20computer%20modeling/Shooting%20at%20an%20angle%20to%20the%20horizon/Release_v2.8%20-%20new%20algorithm_2.py)
+- [Алгоритм для модели, в которой величина силы сопротивления пропорциональна скорости тела](https://github.com/VsevolodShengelai/University_Projects/blob/main/Fundamentals%20of%20computer%20modeling/Shooting%20at%20an%20angle%20to%20the%20horizon/Release_v2.8%20-%20new%20algorithm.py) 
 
 На холсте могут быть отображены 5 графиков:
 - график зависимости y(x)
