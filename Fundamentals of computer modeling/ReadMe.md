@@ -17,7 +17,7 @@
 ![](./images/Shooting_at_an_angle_to_the_horizon2.png)
 _Рисунок 1. Интерфейс программы с алгоритом для модели с установившейся скоростью_
 
-![](./images/Shooting_at_an angle_to_the_horizon1.png)
+  ![](./images/Shooting_at_an angle_to_the_horizon1.png)
 _Рисунок 2. Интерфейс программы с алгоритом для модели в которой величина силы сопротивления пропорциональна скорости тела_
 
 
