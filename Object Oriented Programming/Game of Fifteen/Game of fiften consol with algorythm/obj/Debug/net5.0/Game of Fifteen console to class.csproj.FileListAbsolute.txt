@@ -1,0 +1,5 @@
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of fiften consol with algorythm\obj\Debug\net5.0\Game of Fifteen console to class.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of fiften consol with algorythm\obj\Debug\net5.0\Game of Fifteen console to class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of fiften consol with algorythm\obj\Debug\net5.0\Game of Fifteen console to class.AssemblyInfoInputs.cache
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of fiften consol with algorythm\obj\Debug\net5.0\Game of Fifteen console to class.AssemblyInfo.cs
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of fiften consol with algorythm\obj\Debug\net5.0\Game of Fifteen console to class.csproj.CoreCompileInputs.cache

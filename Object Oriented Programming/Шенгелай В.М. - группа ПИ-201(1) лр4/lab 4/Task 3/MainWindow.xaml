@@ -1,0 +1,17 @@
+﻿<Window x:Class="Task_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label_1" Content="Введите выражение" HorizontalAlignment="Left" Height="43" Margin="28,20,0,0" VerticalAlignment="Top" Width="377" FontSize="22" Foreground="#FF2E64FC"/>
+        <Label x:Name="label_1_Answer" Content="Ответ:" HorizontalAlignment="Left" Height="43" Margin="28,207,0,0" VerticalAlignment="Top" Width="377" FontSize="22" Foreground="#FF2E64FC"/>
+        <Button x:Name="calcButton" Content="Посчитать" HorizontalAlignment="Left" Height="39" Margin="28,314,0,0" VerticalAlignment="Top" Width="145" FontSize="22" RenderTransformOrigin="0.448,1.935" Click="calcButton_Click"/>
+        <Label x:Name="label_1_Copy1" Content="Тип данных ответа:" HorizontalAlignment="Left" Height="43" Margin="28,255,0,0" VerticalAlignment="Top" Width="377" FontSize="22" Foreground="#FF2E64FC"/>
+        <TextBox x:Name="text_Block" HorizontalAlignment="Left" Height="35" Margin="28,80,0,0" TextWrapping="Wrap" Text="2147483647*2" VerticalAlignment="Top" Width="377" FontSize="22"/>
+
+    </Grid>
+</Window>

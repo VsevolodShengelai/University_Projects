@@ -1,0 +1,15 @@
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\bin\Debug\1_Conversion_programm.exe.config
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\bin\Debug\1_Conversion_programm.exe
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\bin\Debug\1_Conversion_programm.pdb
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\1_Conversion_programm.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\MainWindow.g.cs
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\App.g.cs
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\1_Conversion_programm_MarkupCompile.cache
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\1_Conversion_programm_MarkupCompile.lref
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\MainWindow.baml
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\1_Conversion_programm.g.resources
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\_1_Conversion_programm.Properties.Resources.resources
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\1_Conversion_programm.csproj.GenerateResource.cache
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\1_Conversion_programm.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\1_Conversion_programm.exe
+C:\Users\Vsevolod\source\repos\lab 2\1_Conversion_programm\obj\Debug\1_Conversion_programm.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q1wCEswbvWDpACq3RuKN6kNVG1xM5bt+E1+9+NVEolIg3eZXhg4C/MikdS4GfRjkCbe25O91zadVApfcChoSwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vsevolod\\source\\repos\\Game of Fifteen\\Game of Fifteen console\\Game of Fifteen console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vsevolod\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.10\\microsoft.netcore.app.runtime.win-x86.5.0.10.nupkg.sha512",
+    "C:\\Users\\Vsevolod\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.10\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.10.nupkg.sha512",
+    "C:\\Users\\Vsevolod\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.10\\microsoft.aspnetcore.app.runtime.win-x86.5.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

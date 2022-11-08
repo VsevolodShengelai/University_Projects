@@ -1,0 +1,28 @@
+C:\Users\Programmer\source\repos\lab 4\lab 4\bin\Debug\lab 4.exe.config
+C:\Users\Programmer\source\repos\lab 4\lab 4\bin\Debug\lab 4.exe
+C:\Users\Programmer\source\repos\lab 4\lab 4\bin\Debug\lab 4.pdb
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\lab 4.csproj.AssemblyReference.cache
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\MainWindow.baml
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\MainWindow.g.cs
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\App.g.cs
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\lab 4_MarkupCompile.cache
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\lab 4.g.resources
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\lab_4.Properties.Resources.resources
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\lab 4.csproj.GenerateResource.cache
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\lab 4.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\lab 4.exe
+C:\Users\Programmer\source\repos\lab 4\lab 4\obj\Debug\lab 4.pdb
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\bin\Debug\lab 4.exe.config
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\bin\Debug\lab 4.exe
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\bin\Debug\lab 4.pdb
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\lab 4.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\MainWindow.baml
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\MainWindow.g.cs
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\App.g.cs
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\lab 4_MarkupCompile.cache
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\lab 4.g.resources
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\lab_4.Properties.Resources.resources
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\lab 4.csproj.GenerateResource.cache
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\lab 4.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\lab 4.exe
+C:\Users\Vsevolod\source\repos\lab 4\lab 4\obj\Debug\lab 4.pdb

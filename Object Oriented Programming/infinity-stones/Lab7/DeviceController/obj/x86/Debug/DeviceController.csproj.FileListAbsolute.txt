@@ -1,0 +1,36 @@
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\obj\x86\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\obj\x86\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\DeviceController\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\DeviceController\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\DeviceController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\DeviceController\obj\x86\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\DeviceController\obj\x86\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module9\DeviceController\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module9\DeviceController\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module9\DeviceController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module9\DeviceController\obj\x86\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module9\DeviceController\obj\x86\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\DeviceController\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\DeviceController\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\DeviceController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module10\DeviceController\obj\x86\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\DeviceController\obj\x86\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\DeviceController\bin\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\DeviceController\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\DeviceController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\DeviceController\obj\x86\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\DeviceController\obj\x86\Debug\DeviceController.pdb
+E:\Labfiles\Lab 11\Ex1\Starter\DeviceController\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 11\Ex1\Starter\DeviceController\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 11\Ex1\Starter\DeviceController\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 11\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.dll
+E:\Labfiles\Lab 11\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.pdb
+D:\Projects\C#\year2\Lab7\DeviceController\bin\Debug\DeviceController.dll
+D:\Projects\C#\year2\Lab7\DeviceController\bin\Debug\DeviceController.pdb
+D:\Projects\C#\year2\Lab7\DeviceController\obj\x86\Debug\DeviceController.csproj.AssemblyReference.cache
+D:\Projects\C#\year2\Lab7\DeviceController\obj\x86\Debug\DeviceController.csproj.CoreCompileInputs.cache
+D:\Projects\C#\year2\Lab7\DeviceController\obj\x86\Debug\DeviceController.dll
+D:\Projects\C#\year2\Lab7\DeviceController\obj\x86\Debug\DeviceController.pdb

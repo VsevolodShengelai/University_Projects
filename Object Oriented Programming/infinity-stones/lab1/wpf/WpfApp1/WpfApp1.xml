@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WpfApp1</name>
+    </assembly>
+    <members>
+        <member name="T:WpfApp1.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:WpfApp1.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:WpfApp1.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:WpfApp1.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:WpfApp1.MainWindow.#ctor">
+            <summary>
+            Конструктор MainWindow
+            </summary>
+        </member>
+        <member name="M:WpfApp1.MainWindow.testButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Читает строку, введённую пользователем.
+            Форматированную строку помещает в текстовое поле
+            formattedText.
+            </summary>
+            <param name="sender">отправитель</param>
+            <param name="e">событие</param>
+        </member>
+        <member name="M:WpfApp1.MainWindow.Window_Loaded(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            После загрузки приложения, читает данные из
+            стандартного ввода и форматированный текст помещает
+            в текстовое поле formattedText
+            </summary>
+            <param name="sender">отправитель</param>
+            <param name="e">событие</param>
+        </member>
+        <member name="M:WpfApp1.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

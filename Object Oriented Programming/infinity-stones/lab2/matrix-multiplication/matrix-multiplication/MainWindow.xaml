@@ -1,0 +1,57 @@
+﻿<Window x:Class="matrix_multiplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:matrix_multiplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" MinWidth="800" MinHeight="300" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="35" />
+            <RowDefinition Height="30" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <ScrollViewer Margin="5" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Grid.Column="0" Grid.Row="0">
+            <Grid x:Name="gridFirst">
+                
+            </Grid>
+        </ScrollViewer>
+        <ScrollViewer Margin="5" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Grid.Column="1" Grid.Row="0">
+            <Grid x:Name="gridSecond">
+
+            </Grid>
+        </ScrollViewer>
+
+        <StackPanel Grid.Column="0" Grid.Row="1" Orientation="Horizontal" Margin="5,5,5,5">
+            <Label Content="Столбцы" Grid.Column="0" />
+            <TextBox x:Name="textboxFirstCol" Margin="5,0" Grid.Column="1" Width="50" />
+            <Label Content="Строки" Grid.Column="2" />
+            <TextBox x:Name="textboxFirstRow" Margin="5,0" Grid.Column="3" Width="50" />
+            <Button x:Name="buttonCreateFirstMatrix" Content="Создать" Padding="10,0" Click="buttonCreateFirstMatrix_Click"/>
+            <Button Content="Заполнить" Padding="10,0" Margin="5,0" Click="Button_Click" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="1" Orientation="Horizontal" Margin="5,5,5,5">
+            <Label Content="Столбцы" Grid.Column="0" />
+            <TextBox x:Name="textboxSecondCol" Margin="5,0" Grid.Column="1" Width="50" />
+            <Label Content="Строки" Grid.Column="2" />
+            <TextBox x:Name="textboxSecondRow" Margin="5,0" Grid.Column="3" Width="50" />
+            <Button x:Name="buttonCreateSecondMatrix" Content="Создать" Padding="10,0" Click="buttonCreateSecondMatrix_Click"/>
+            <Button Content="Заполнить" Padding="10,0" Margin="5,0" Click="Button_Click_1" />
+        </StackPanel>
+
+        <Button x:Name="buttonMultiply" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2" HorizontalAlignment="Center" Content="Умножить" Padding="20,0" Click="buttonMultiply_Click" />
+
+        <ScrollViewer Margin="5" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="3">
+            <Grid x:Name="gridThird">
+
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Window>

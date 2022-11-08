@@ -1,0 +1,5 @@
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Debug\net5.0\publish\Game of Fifteen console.exe
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Debug\net5.0\publish\Game of Fifteen console.dll
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Debug\net5.0\publish\Game of Fifteen console.deps.json
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Debug\net5.0\publish\Game of Fifteen console.runtimeconfig.json
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Debug\net5.0\publish\Game of Fifteen console.pdb

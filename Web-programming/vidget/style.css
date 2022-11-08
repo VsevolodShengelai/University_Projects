@@ -1,0 +1,56 @@
+.weather{
+    color: aliceblue;
+    background-color:#274684;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 450px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.weather__loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.weather__loading img{
+    max-width: 50px;
+}
+.weather__header{
+    display: flex;
+}
+
+.weather__header{
+    display: flex;
+}
+
+.weather__main{
+    flex: 1 1 auto;
+}
+
+.weather__city{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.weather_status{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.weather__body{}
+.weather_icon{}
+
+.weather__temp{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.weather__feels-like{
+}
+.weather__temp::after,
+.weather__feels-like::after{
+    display: inline-block;
+    margin-left: 5px;
+    content: "°C";
+}

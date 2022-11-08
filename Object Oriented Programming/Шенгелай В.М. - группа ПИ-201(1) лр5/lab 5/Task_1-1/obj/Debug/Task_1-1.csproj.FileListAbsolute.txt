@@ -1,0 +1,15 @@
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\bin\Debug\Task_1-1.exe.config
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\bin\Debug\Task_1-1.exe
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\bin\Debug\Task_1-1.pdb
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\Task_1-1.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\MainWindow.g.cs
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\App.g.cs
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\Task_1-1_MarkupCompile.cache
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\Task_1-1_MarkupCompile.lref
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\MainWindow.baml
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\Task_1-1.g.resources
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\Task_1_1.Properties.Resources.resources
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\Task_1-1.csproj.GenerateResource.cache
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\Task_1-1.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\Task_1-1.exe
+C:\Users\Vsevolod\source\repos\lab 5\Task_1-1\obj\Debug\Task_1-1.pdb

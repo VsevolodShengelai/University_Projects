@@ -1,0 +1,20 @@
+﻿<Window x:Class="Task_1_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_1_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="305.419" Width="609.497">
+    <Grid>
+        <TextBox x:Name="inputTextBox_number" HorizontalAlignment="Left" Height="28" Margin="318,73,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="190"/>
+        <Button x:Name="calculateButton_number" Content="Itertion" HorizontalAlignment="Right" Margin="0,74,11.2,0" VerticalAlignment="Top" Width="75" Height="23" Click="calculateButton_number_Click"/>
+        <TextBox x:Name="inputTextBox_approx" HorizontalAlignment="Left" Height="28" Margin="14,73,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="190"/>
+        <Button x:Name="calculateButton_approx" Content="Auto" HorizontalAlignment="Right" Margin="0,74,314.2,0" VerticalAlignment="Top" Width="75" Height="23" Click="calculateButton_approx_Click"/>
+        <Label Content="Вычисление квадратного корня числа методом Ньютона" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Top" FontSize="16" Width="435" Foreground="#FF1D44CA"/>
+        <Label Content="Начальное приближение" HorizontalAlignment="Center" Margin="11,43,403.2,0" VerticalAlignment="Top" Width="189" Foreground="#FF1D44CA" FontSize="14"/>
+        <Label Content="Число" HorizontalAlignment="Center" Margin="313,43,101.2,0" VerticalAlignment="Top" Width="189" Foreground="#FF1D44CA" FontSize="14"/>
+        <Label x:Name="Output_label" Content="" HorizontalAlignment="Left" Margin="11,143,0,0" VerticalAlignment="Top" Width="577" Height="123" Background="#FFE3FFF5"/>
+        <Button x:Name="resetButt" Content="ResetAll" HorizontalAlignment="Right" Margin="0,108,10.2,0" VerticalAlignment="Top" Width="75" Height="23" Click="resetButt_Click"/>
+    </Grid>
+</Window>

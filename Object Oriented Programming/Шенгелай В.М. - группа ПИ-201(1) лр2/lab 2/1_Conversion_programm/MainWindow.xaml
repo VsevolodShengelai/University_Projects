@@ -1,0 +1,37 @@
+﻿<Window x:Class="_1_Conversion_programm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1_Conversion_programm"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="comboBox1" HorizontalAlignment="Left" Margin="15,37,0,0" VerticalAlignment="Top" Width="120">
+            <TextBlock>char</TextBlock>
+            <TextBlock>string</TextBlock>
+            <TextBlock>byte</TextBlock>
+            <TextBlock>int</TextBlock>
+            <TextBlock>float</TextBlock>
+            <TextBlock>double</TextBlock>
+            <TextBlock>decimal</TextBlock>
+            <TextBlock>bool</TextBlock>
+            <TextBlock>object</TextBlock>
+        </ComboBox>
+        <ComboBox x:Name="comboBox2" HorizontalAlignment="Left" Margin="197,37,0,0" VerticalAlignment="Top" Width="120">
+            <TextBlock>char</TextBlock>
+            <TextBlock>string</TextBlock>
+            <TextBlock>byte</TextBlock>
+            <TextBlock>int</TextBlock>
+            <TextBlock>float</TextBlock>
+            <TextBlock>double</TextBlock>
+            <TextBlock>decimal</TextBlock>
+            <TextBlock>bool</TextBlock>
+            <TextBlock>object</TextBlock>
+        </ComboBox>
+        <TextBlock x:Name="textBlock_1" HorizontalAlignment="Left" Margin="335,32,0,0" TextWrapping="Wrap" Text="Явное преобразование:" VerticalAlignment="Top" Height="32" Width="367" FontSize="20" Foreground="#FF0F60FF"/>
+        <TextBlock x:Name="textBlock_2" HorizontalAlignment="Left" Margin="335,66,0,0" TextWrapping="Wrap" Text="Неявное преобразование:" VerticalAlignment="Top" Height="32" Width="367" FontSize="20" Foreground="#FF0F60FF"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="158,37,0,0" TextWrapping="Wrap" Text="to" VerticalAlignment="Top" Width="16" Foreground="#FF0F60FF" RenderTransformOrigin="0.719,0.7"/>
+        <Button x:Name="calcButton" Content="Преобразовать" HorizontalAlignment="Left" Margin="335,125,0,0" VerticalAlignment="Top" Width="124" Height="22" FontSize="14" Click="calcButton_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="230" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="5*" />
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0"
+                x:Name="shutdownButton"
+                Content="Shutdown"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Padding="5"
+                Click="shutdownButton_Click" />
+        <TextBlock Grid.Row="1"
+                   x:Name="outputTextBlock"
+                   Padding="5"
+                   TextAlignment="Left" />
+    </Grid>
+</Window>

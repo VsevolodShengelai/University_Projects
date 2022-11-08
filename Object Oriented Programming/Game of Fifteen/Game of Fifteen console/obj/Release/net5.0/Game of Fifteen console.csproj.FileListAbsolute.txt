@@ -1,0 +1,16 @@
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Release\net5.0\Game of Fifteen console.exe
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Release\net5.0\Game of Fifteen console.deps.json
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Release\net5.0\Game of Fifteen console.runtimeconfig.json
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Release\net5.0\Game of Fifteen console.runtimeconfig.dev.json
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Release\net5.0\Game of Fifteen console.dll
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Release\net5.0\ref\Game of Fifteen console.dll
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\bin\Release\net5.0\Game of Fifteen console.pdb
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\obj\Release\net5.0\Game of Fifteen console.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\obj\Release\net5.0\Game of Fifteen console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\obj\Release\net5.0\Game of Fifteen console.AssemblyInfoInputs.cache
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\obj\Release\net5.0\Game of Fifteen console.AssemblyInfo.cs
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\obj\Release\net5.0\Game of Fifteen console.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\obj\Release\net5.0\Game of Fifteen console.dll
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\obj\Release\net5.0\ref\Game of Fifteen console.dll
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\obj\Release\net5.0\Game of Fifteen console.pdb
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen console\obj\Release\net5.0\Game of Fifteen console.genruntimeconfig.cache

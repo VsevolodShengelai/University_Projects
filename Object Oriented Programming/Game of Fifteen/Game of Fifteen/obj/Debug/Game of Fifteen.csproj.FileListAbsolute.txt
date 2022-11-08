@@ -1,0 +1,16 @@
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\bin\Debug\Game of Fifteen.exe.config
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\bin\Debug\Game of Fifteen.exe
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\bin\Debug\Game of Fifteen.pdb
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\Game of Fifteen.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\MainWindow.g.cs
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\App.g.cs
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\Game of Fifteen_MarkupCompile.cache
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\Game of Fifteen_MarkupCompile.lref
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\MainWindow.baml
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\Game of Fifteen.g.resources
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\Game_of_Fifteen.Properties.Resources.resources
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\Game of Fifteen.csproj.GenerateResource.cache
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\Game of Fifteen.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\Game of Fifteen.exe
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\Game of Fifteen.pdb
+C:\Users\Vsevolod\source\repos\Game of Fifteen\Game of Fifteen\obj\Debug\GeneratedInternalTypeHelper.g.cs

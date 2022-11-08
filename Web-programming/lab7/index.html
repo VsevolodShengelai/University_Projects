@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <header>Бабуленькины котятки</header>
+    <div class="global">
+        <input type="checkbox" id="abis" class="cats">
+        <input type="checkbox" id="brit" class="cats">
+        <input type="checkbox" id="rus" class="cats">
+        <input type="checkbox" id="siam" class="cats">
+        <div class="menu">
+            <label for="abis">Абиссинская</label>
+            <label for="brit">Британская</label>
+            <label for="rus">Русская голубая</label>
+            <label for="siam">Сиамская</label>
+          </div>
+        <div class="cats">
+            <div class="abis">
+                <img src="http://murkote.com/wp-content/uploads/2014/03/abissinskaya-koshka-foto.jpg" alt="" class="cat">
+                <p class="text">Гоша, 4 года</p>
+            </div>
+            <div class="brit">
+                <img src="http://murkote.com/wp-content/uploads/2015/06/australian-mist-5.jpg" alt="" class="cat">
+                <p class="text">Макс, 2 года</p>
+            </div>
+            <div class="abis">
+                <img src="http://murkote.com/wp-content/uploads/2015/05/American-Bobtail-Cat.jpg" alt="" class="cat">
+                <p class="text">Гена, 1 год</p>
+            </div>
+            <div class="rus">
+                <img src="http://murkote.com/wp-content/uploads/2015/06/american-curl-7.jpg" alt="" class="cat">
+                <p class="text">Марк, 1 месяц</p>
+            </div>
+            <div class="abis">
+                <img src="http://murkote.com/wp-content/uploads/2015/06/Anatolijskya-koshka-2.jpg" alt="" class="cat">
+                <p class="text">Дима, 4 года</p>
+            </div>
+            <div class="siam">
+                <img src="http://murkote.com/wp-content/uploads/2015/06/arabian-mau-1.jpg" alt="" class="cat">
+                <p class="text">Мага, 5 лет</p>
+            </div>
+            <div class="rus">
+                <img src="http://murkote.com/wp-content/uploads/2014/03/leopardovaya-bengalskaya-koshka.jpg" alt="" class="cat">
+                <p class="text">Темик, 10 лет</p>
+            </div>
+            <div class="brit">
+                <img src="http://murkote.com/wp-content/uploads/2015/06/Brazilian-Shorthair-cat-2.jpg" alt="" class="cat">
+                <p class="text">Мага2, 4 года</p>
+            </div>
+        </div>
+        <div class="rating">
+            <p class="rtext">Рейтинг</p>
+            <label for="rating">по убыванию</label>
+            <input type="checkbox" id="rating">
+            <div class="block-breed">
+                <div class="breed breeds1" style="--default: 2;">
+                    <p>Абиссинская</p>
+                    <div class="blockscale blockscale1">
+                        <div class="scale1"></div>
+                        <span>9</span>
+                    </div>
+                </div>
+                <div class="breed breeds2" style="--default: 3;">
+                    <p>Британская</p>
+                    <div class="blockscale blockscale2">
+                        <div class="scale2"></div>
+                        <span>8</span>
+                    </div>
+                </div>
+                <div class="breed breeds3" style="--default: 1;">
+                    <p>Русская голубая</p>
+                    <div class="blockscale blockscale3">
+                        <div class="scale3"></div>
+                        <span>10</span>
+                    </div>
+                </div>
+                <div class="breed breeds4" style="--default: 4;">
+                    <p>Сиамская</p>
+                    <div class="blockscale blockscale4">
+                        <div class="scale4"></div>
+                        <span>4</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer><p>&copy ООО Бабуленькины котятки, 2015</p>
+        <span class="adress">Наш адрес: улица Котовая, д.5</span>
+    </footer>
+</body>
+
+<style>
+body {
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    text-align: center;
+    font-size: 28px;
+    font-style: bold;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+.global {
+    display: flex;
+    justify-content: space-around;
+}
+.menu {
+    display: flex;
+    width: 250px;
+    flex-direction: column;
+    background-color: gray;
+    min-width: 200px;
+}
+
+.menu label {
+    font-size: 25px;
+    border-bottom: 1px white solid;
+    height: 50px;
+    width: 100%;    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.cats {
+    display: grid;
+    grid-template-rows: repeat(4,140px);
+    grid-template-columns: repeat(3,1fr);
+    width: 700px;
+    height: 600px;
+    gap: 10px;
+    min-width: 600px;
+}
+input.cats {
+    display: none;
+
+}
+div.menu label:hover {
+    font-size: 26px;
+}
+input#abis:checked ~ div.menu label:nth-of-type(1) {
+    background: #000;
+    color: white;
+}
+input#brit:checked ~ div.menu label:nth-of-type(2) {
+    background: #000;
+    color: white;
+}
+input#rus:checked ~ div.menu label:nth-of-type(3) {
+    background: #000;
+    color: white;
+}
+input#siam:checked ~ div.menu label:nth-of-type(4) {
+    background: #000;
+    color: white;
+}
+input#abis:checked ~ div.cats div:not([class="abis"]){
+    opacity: .5;
+}
+input#abis:checked ~ div.cats div.abis{
+    opacity: 1 !important;
+}
+input#brit:checked ~ div.cats div:not([class="brit"]){
+    opacity: .5;
+}
+input#brit:checked ~ div.cats div.brit{
+    opacity: 1 !important;
+}
+input#rus:checked ~ div.cats div:not([class="rus"]){
+    opacity: .5;
+}
+input#rus:checked ~ div.cats div.rus{
+    opacity: 1 !important;
+}
+input#siam:checked ~ div.cats div:not([class="siam"]){
+    opacity: .5;
+}
+input#siam:checked ~ div.cats div.siam{
+    opacity: 1 !important;
+}
+img.cat:hover ~ p.text{
+    display: block;
+}
+.text {
+    position: absolute;
+    margin-top: -60px;
+    background:rgba(0, 0, 0, .5);
+    height: 50px;
+    width: 150px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+    display: none;
+    }
+
+div.cats div:nth-child(1) {
+    grid-column: 1;
+    grid-row: 1;
+}
+div.cats div:nth-child(2) {
+    grid-column: 2/4;
+    grid-row: 1;
+}
+div.cats div:nth-child(3) {
+    grid-column: 1;
+    grid-row: 2;
+}
+div.cats div:nth-child(4) {
+    grid-column: 2;
+    grid-row: 2;
+}
+div.cats div:nth-child(5) {
+    grid-column: 3;
+    grid-row: 2;
+}
+div.cats div:nth-child(6) {
+    grid-column: 1/3;
+    grid-row: 3;
+}
+div.cats div:nth-child(7) {
+    grid-column: 3;
+    grid-row: 3;
+}
+div.cats div:nth-child(8) {
+    grid-column: 1/4;
+    grid-row: 4;
+}
+.rating {
+    display: flex;
+    width: 250px;
+    background: gray;
+    align-self: flex-start; 
+    flex-direction: row;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+.rating p.rtext {
+    text-transform: uppercase;
+    color: red;
+    text-align: left;
+    font-size: 30px;
+    margin: 0;
+    width: 250px;
+}
+.block-breed {
+    display: flex;
+    flex-direction: column;
+}
+.blockscale {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.blockscale div {
+    height: 20px;
+}
+div.breed p {
+    font-size: 20px;
+    margin: 7px 0;
+}
+span {
+    font-size: 20px;
+    font-weight: bold;
+}
+.scale1 {
+    width: 180px;
+    background: linear-gradient(to right,green,white);
+}
+.scale2 {
+    width: 160px;
+    background: linear-gradient(to right,yellow,white);
+}
+.scale3 {
+    width: 200px;
+    background: linear-gradient(to right,green,white);
+}
+.scale4 {
+    width: 80px;
+    background: linear-gradient(to right,red,white);
+}
+
+.rating input:checked ~ .block-breed .breed {
+    order: var(--default);
+}
+.rating label {
+    margin-left: 45%;
+}
+span.adress {
+    color: blue;
+    font-weight: normal;
+    font-size: 20px;
+}
+footer {
+    font-size: 20px;
+    margin-top: 5px;
+    border-top: gray 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer p {
+    margin: 0;
+}
+
+</style>
+
+</html>

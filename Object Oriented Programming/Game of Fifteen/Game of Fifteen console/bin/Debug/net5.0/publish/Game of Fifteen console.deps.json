@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Game of Fifteen console/1.0.0": {
+        "runtime": {
+          "Game of Fifteen console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game of Fifteen console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

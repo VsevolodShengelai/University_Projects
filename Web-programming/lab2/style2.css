@@ -1,0 +1,45 @@
+/*Селекторы начинаются с задания 3.*/
+.task-3 div.hello p.test{ 
+	color: crimson;
+}
+
+.task-4 p.test, .task-4 .hello{
+    color: darkorange;
+    font-weight: bold;
+}
+
+p>a, a.test{
+	color: yellow;
+	background-color: black;
+}
+
+#test b~i{
+	background-color: indianred;
+}
+
+ul li > b {
+ color: red;
+}
+
+h2.header {
+	color: red;
+}
+h3.header {
+	color:blue;
+}
+
+#test h2~p{
+	color:green;
+}
+
+.task-10 p>* i{
+	color: darkgoldenrod;
+}
+
+p[title*="Привет"], p[title*="привет"]{
+	font-weight: bold;
+	color: deeppink;
+}
+
+
+

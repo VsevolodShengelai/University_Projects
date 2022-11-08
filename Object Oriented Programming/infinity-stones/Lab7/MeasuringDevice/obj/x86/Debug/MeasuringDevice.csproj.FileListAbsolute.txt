@@ -1,0 +1,72 @@
+C:\Users\James\Desktop\MSL C# Labs\Module8\MeasuringDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\MeasuringDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module9\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module9\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module9\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module9\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module9\MeasuringDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module9\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module9\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\MeasuringDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module10\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Lab 10\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Lab 10\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Lab 10\Solution\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Lab 10\Solution\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Lab 10\Solution\MeasuringDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Lab 10\Solution\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Lab 10\Solution\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\MeasuringDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\MeasuringDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\MeasuringDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 11\Ex1\Starter\MeasuringDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 11\Ex1\Starter\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 11\Ex1\Starter\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 11\Ex1\Starter\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 11\Ex1\Starter\MeasuringDevice\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 11\Ex1\Starter\MeasuringDevice\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 11\Ex1\Starter\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
+D:\Projects\C#\year2\Lab7\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+D:\Projects\C#\year2\Lab7\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+D:\Projects\C#\year2\Lab7\MeasuringDevice\bin\Debug\DeviceController.dll
+D:\Projects\C#\year2\Lab7\MeasuringDevice\bin\Debug\DeviceController.pdb
+D:\Projects\C#\year2\Lab7\MeasuringDevice\obj\x86\Debug\MeasuringDevice.csproj.AssemblyReference.cache
+D:\Projects\C#\year2\Lab7\MeasuringDevice\obj\x86\Debug\MeasuringDevice.csproj.CoreCompileInputs.cache
+D:\Projects\C#\year2\Lab7\MeasuringDevice\obj\x86\Debug\MeasuringDevice.csproj.CopyComplete
+D:\Projects\C#\year2\Lab7\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
+D:\Projects\C#\year2\Lab7\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb

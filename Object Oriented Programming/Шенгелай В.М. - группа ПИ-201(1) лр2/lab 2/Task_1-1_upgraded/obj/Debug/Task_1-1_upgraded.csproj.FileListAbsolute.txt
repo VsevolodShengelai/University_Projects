@@ -1,0 +1,15 @@
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\bin\Debug\Task_1-1_upgraded.exe.config
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\bin\Debug\Task_1-1_upgraded.exe
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\bin\Debug\Task_1-1_upgraded.pdb
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\Task_1-1_upgraded.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\MainWindow.g.cs
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\App.g.cs
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\Task_1-1_upgraded_MarkupCompile.cache
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\Task_1-1_upgraded_MarkupCompile.lref
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\MainWindow.baml
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\Task_1-1_upgraded.g.resources
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\Task_1_1_upgraded.Properties.Resources.resources
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\Task_1-1_upgraded.csproj.GenerateResource.cache
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\Task_1-1_upgraded.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\Task_1-1_upgraded.exe
+C:\Users\Vsevolod\source\repos\lab 2\Task_1-1_upgraded\obj\Debug\Task_1-1_upgraded.pdb

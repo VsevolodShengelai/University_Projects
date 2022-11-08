@@ -1,0 +1,15 @@
+C:\Users\Vsevolod\source\repos\lab 2\Test\bin\Debug\Test.exe.config
+C:\Users\Vsevolod\source\repos\lab 2\Test\bin\Debug\Test.exe
+C:\Users\Vsevolod\source\repos\lab 2\Test\bin\Debug\Test.pdb
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\App.g.cs
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\MainWindow.baml
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\Test.g.resources
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\Test.exe
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\Test.pdb
+C:\Users\Vsevolod\source\repos\lab 2\Test\obj\Debug\Test.csproj.AssemblyReference.cache

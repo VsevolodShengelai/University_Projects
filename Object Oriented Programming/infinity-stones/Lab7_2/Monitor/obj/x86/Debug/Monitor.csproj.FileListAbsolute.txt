@@ -1,0 +1,126 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\Monitor_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\Monitor.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\Monitor.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\bin\Debug\Monitor.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\bin\Debug\Monitor.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\bin\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\bin\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\bin\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\Monitor.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\Monitor\obj\x86\Debug\Monitor.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\bin\Debug\Monitor.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\bin\Debug\Monitor.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\bin\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\bin\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\bin\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\Monitor_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\Monitor.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\Monitor.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\Monitor.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Solution\Monitor\obj\x86\Debug\Monitor.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\Monitor.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\Monitor.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\bin\Debug\Monitor.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\bin\Debug\Monitor.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\bin\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\bin\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\bin\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\Monitor_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\Monitor.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\Monitor.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 2 -LambdaExpressions\Starter\Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\Monitor.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\Monitor.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\bin\Debug\Monitor.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\bin\Debug\Monitor.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\bin\Debug\MeasuringDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\bin\Debug\DeviceController.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\bin\Debug\MeasuringDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\bin\Debug\DeviceController.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\Monitor_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\Monitor.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\Monitor.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 11\Ex 1 - RaisingHandlingEvents\Solution\Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\bin\Debug\Monitor.exe
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\bin\Debug\Monitor.pdb
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\Monitor_MarkupCompile.cache
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\Monitor.g.resources
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\Monitor.Properties.Resources.resources
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\Monitor.exe
+E:\Labfiles\Lab 11\Ex1\Starter\Monitor\obj\x86\Debug\Monitor.pdb
+E:\Labfiles\Lab 11\Ex1\Solution\Monitor\obj\x86\Debug\Monitor.exe
+E:\Labfiles\Lab 11\Ex1\Solution\Monitor\obj\x86\Debug\Monitor.pdb
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\Monitor.exe
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\Monitor.pdb
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\bin\Debug\Monitor.exe
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\bin\Debug\Monitor.pdb
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\Monitor_MarkupCompile.cache
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\Monitor.g.resources
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\Monitor.Properties.Resources.resources
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Desktop\10266A_11_Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\Monitor.exe
+C:\Users\Student\Desktop\10266A_11_Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\Monitor.pdb
+c:\Users\MW\Documents\__Объектно-ориентир программирование\C# тренинг Майкрософт Киев 2013-11-25 с коммент МВВ\C#-тренинг Киев 2013-11-25\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\Monitor.exe
+c:\Users\MW\Documents\__Объектно-ориентир программирование\C# тренинг Майкрософт Киев 2013-11-25 с коммент МВВ\C#-тренинг Киев 2013-11-25\Labfiles\Lab 11\Ex2\Starter\Monitor\obj\x86\Debug\Monitor.pdb
+D:\Projects\C#\year2\Lab7_2\Monitor\bin\Debug\Monitor.exe
+D:\Projects\C#\year2\Lab7_2\Monitor\bin\Debug\Monitor.pdb
+D:\Projects\C#\year2\Lab7_2\Monitor\bin\Debug\MeasuringDevice.dll
+D:\Projects\C#\year2\Lab7_2\Monitor\bin\Debug\DeviceController.dll
+D:\Projects\C#\year2\Lab7_2\Monitor\bin\Debug\MeasuringDevice.pdb
+D:\Projects\C#\year2\Lab7_2\Monitor\bin\Debug\DeviceController.pdb
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\Monitor.csproj.AssemblyReference.cache
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\MainWindow.baml
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\App.g.cs
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\Monitor_MarkupCompile.cache
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\Monitor.g.resources
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\Monitor.Properties.Resources.resources
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\Monitor.csproj.GenerateResource.cache
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\Monitor.csproj.CoreCompileInputs.cache
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\Monitor.csproj.CopyComplete
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\Monitor.exe
+D:\Projects\C#\year2\Lab7_2\Monitor\obj\x86\Debug\Monitor.pdb

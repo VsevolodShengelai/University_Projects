@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>lab1_WpfApp1</name>
+    </assembly>
+    <members>
+        <member name="T:lab1_WpfApp1.App">
+            <summary>
+            Логика взаимодействия для App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:lab1_WpfApp1.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:lab1_WpfApp1.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:lab1_WpfApp1.MainWindow">
+            <summary>
+            WPF application to read and format data
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:lab1_WpfApp1.MainWindow.#ctor">
+            /// <summary>
+            Constructor for MainWindow
+            </summary>
+        </member>
+        <member name="M:lab1_WpfApp1.MainWindow.testButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Read a line of data entered by the user.
+            Format the data and display the results in the
+            formattedText TextBlock control.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:lab1_WpfApp1.MainWindow.Window_Loaded(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            After the Window has loaded, read data from the standard input.
+            Format each line and display the results in the
+            formattedText TextBlock control.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:lab1_WpfApp1.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:lab1_WpfApp1.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:lab1_WpfApp1.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:lab1_WpfApp1.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>

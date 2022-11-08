@@ -1,0 +1,109 @@
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\MainWindow.baml
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\App.g.cs
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness_MarkupCompile.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.g.resources
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.Properties.Resources.resources
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe.config
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.exe
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe.config
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.exe
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\MainWindow.baml
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\App.g.cs
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness_MarkupCompile.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.g.resources
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.Properties.Resources.resources
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Solution\Exercise3TestHarness\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe.config
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.exe
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\MainWindow.baml
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\App.g.cs
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness_MarkupCompile.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.g.resources
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.Properties.Resources.resources
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe.config
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.exe
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.pdb
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.pdb
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness_MarkupCompile.cache
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.g.resources
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.Properties.Resources.resources
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe.config
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.pdb
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness_MarkupCompile.cache
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.g.resources
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.Properties.Resources.resources
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.exe
+E:\Labfiles\Lab 8\Ex3\Starter\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.pdb
+D:\Projects\Lab6\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe.config
+D:\Projects\Lab6\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.exe
+D:\Projects\Lab6\Exercise3TestHarness\bin\Debug\Exercise3TestHarness.pdb
+D:\Projects\Lab6\Exercise3TestHarness\bin\Debug\MeasuringDevice.dll
+D:\Projects\Lab6\Exercise3TestHarness\bin\Debug\DeviceController.dll
+D:\Projects\Lab6\Exercise3TestHarness\bin\Debug\MeasuringDevice.pdb
+D:\Projects\Lab6\Exercise3TestHarness\bin\Debug\DeviceController.pdb
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.csproj.AssemblyReference.cache
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\MainWindow.baml
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\App.g.cs
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness_MarkupCompile.cache
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.g.resources
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.Properties.Resources.resources
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.csproj.GenerateResource.cache
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.csproj.CoreCompileInputs.cache
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.csproj.CopyComplete
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.exe
+D:\Projects\Lab6\Exercise3TestHarness\obj\x86\Debug\Exercise3TestHarness.pdb
